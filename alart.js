@@ -1,2 +1,2 @@
 
-alert("Welcome পাগলি , সবসময় হাসিখুশি থাকো ,  জিবন সুন্দর হবে । I love you ❤ I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤I love you ❤")
+alert(" কাউকে সীমাহীন ভালোবাসলে,তা কখনও ফুরাই না কারণ সীমাহীন ভালোবাসার কোন শেষ নেই….তা কখনও ফুরাইয়া না।তা শুধু বেড়ে যায ❤️❤️ I love You  ")
