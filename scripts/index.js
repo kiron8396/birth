@@ -4,7 +4,7 @@ const giftbox = document.getElementById('merrywrap');
 const canvasC = document.getElementById('c');
 
 const config = {
-  birthdate: 'mar 12, 2024',
+  birthdate: 'mar 12, 2025',
   name: 'Ananya Mondal'
 };
 
